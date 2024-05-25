@@ -23,11 +23,11 @@ Download the data from [**Google Drive**](https://drive.google.com/drive/folders
 .
 ├── data
 │   ├── bunny
-|   |   ├── image01.exr
-|   |   ├── image01.json
-|   |   ├── image02.exr
-|   |   ├── image02.json
-|   |   ├── ...
+│   │   ├── image01.exr
+│   │   ├── image01.json
+│   │   ├── image02.exr
+│   │   ├── image02.json
+│   │   ├── ...
 │   ├── bowl
 │   ├── dragon
 │   ├── mac
