@@ -19,7 +19,7 @@
 
 Download the data from [**Google Drive**](https://drive.google.com/drive/folders/1JjRqc4nO469e1E2jbg8wCewpZ6rPg5Ry?usp=sharing) and extract it to the `data` directory.
 
-```sh
+```
 .
 ├── data
 │   ├── bunny
